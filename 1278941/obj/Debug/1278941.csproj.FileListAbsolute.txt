@@ -1,0 +1,14 @@
+D:\MS VISUAL C#\1278941\1278941\bin\Debug\1278941.exe.config
+D:\MS VISUAL C#\1278941\1278941\bin\Debug\1278941.exe
+D:\MS VISUAL C#\1278941\1278941\bin\Debug\1278941.pdb
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.csproj.AssemblyReference.cache
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.csproj.CoreCompileInputs.cache
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.exe
+D:\MS VISUAL C#\1278941\1278941\obj\Debug\1278941.pdb
+D:\Projects\1278941\1278941\bin\Debug\1278941.exe.config
+D:\Projects\1278941\1278941\bin\Debug\1278941.exe
+D:\Projects\1278941\1278941\bin\Debug\1278941.pdb
+D:\Projects\1278941\1278941\obj\Debug\1278941.csproj.AssemblyReference.cache
+D:\Projects\1278941\1278941\obj\Debug\1278941.csproj.CoreCompileInputs.cache
+D:\Projects\1278941\1278941\obj\Debug\1278941.exe
+D:\Projects\1278941\1278941\obj\Debug\1278941.pdb
